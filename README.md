@@ -2,7 +2,7 @@
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Firewall/NMAP
 - In cmd, turn the Windows firewall on and off using these commands: <br>
-<pre>netsh advfirewall set allprofiles state on</pre> <br>
+<pre>netsh advfirewall set allprofiles state on</pre> 
 <pre>netsh advfirewall set allprofiles state off</pre>
 - In Kali Linux become root by using <br>
 <pre>sudo su -</pre>
