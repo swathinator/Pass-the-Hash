@@ -7,10 +7,10 @@
 - In Kali Linux become root by using <br>
 <pre>sudo su -</pre>
 - I ran nmap with both the firewall off and on: <br>
-<pre>nmap {IP ADDRESS OF WINDOWS MACHINE}</pre><br><br>
-off: <br><br>
+<pre>nmap {IP ADDRESS OF WINDOWS MACHINE}</pre><br>
+off: <br>
 <img width="600" alt="Picture1" src="https://github.com/user-attachments/assets/844461e5-15f1-4b90-a880-9c43e84ac0c9" /><br>
-on:<br><br>
+on:<br>
 <img width="600" alt="Picture2" src="https://github.com/user-attachments/assets/aab2fbbd-7c73-4499-933f-1797bf2bb85d" /><br>
 ## Pass the Hash
 * First disable Windows Defender with this command <br>
