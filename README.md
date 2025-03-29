@@ -13,7 +13,7 @@ off: <br>
 on:<br>
 <img width="800" alt="Picture2" src="https://github.com/user-attachments/assets/aab2fbbd-7c73-4499-933f-1797bf2bb85d" /><br>
 ## Pass the Hash
-* First disable Windows Defender with this command <br>
+* First disable Windows Defender with this command in PowerShell <br>
 <pre>Set-MpPreference -DisableRealtimeMonitoring $true </pre><br>
 * Ensure the firewall is set to off
 * Set the admin password: <br>
