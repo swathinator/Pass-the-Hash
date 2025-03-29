@@ -31,8 +31,8 @@ on:<br>
 * Next, dump password hashes with <br>
 <pre>hashdump</pre> <br><br>
   <img width="1000" alt="Picture4" src="https://github.com/user-attachments/assets/cbbc093d-1f9d-4cf4-ae91-0c6ed3305161" /> <br><br>
-* Exit the meterpreter shell with
-  <pre>exit -y</pre> <br>
+* Exit the meterpreter shell with <br>
+<pre>exit -y</pre> <br>
 * Grab the hash of the admin account and run the following command: <br>
 <pre>set SMBPASS {HASH OF ADMIN}</pre> <br><br>
 <img width="1100" alt="Picture5" src="https://github.com/user-attachments/assets/0d7c13bf-abf7-413c-8045-2c8924e32784" /><br><br>
