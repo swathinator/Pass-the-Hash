@@ -1,4 +1,4 @@
-# Pass-the-Hash
+# Pass the Hash
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Firewall/NMAP
 - In cmd, turn the Windows firewall on and off using these commands: <br>
