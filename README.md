@@ -1,5 +1,6 @@
 # Pass the Hash
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#bafc">Medium</a>
 ## Firewall/NMAP
 - In cmd, turn the Windows firewall on and off using these commands: <br>
 <pre>netsh advfirewall set allprofiles state on</pre> 
