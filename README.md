@@ -38,8 +38,8 @@ on:<br>
 <pre>set SMBPASS {HASH OF ADMIN}</pre> <br><br>
 <img width="1100" alt="Picture5" src="https://github.com/user-attachments/assets/0d7c13bf-abf7-413c-8045-2c8924e32784" /><br><br>
 * After turning the firewall on again, the attack failed: <br><br>
-<img width="1000" alt="Picture6" src="https://github.com/user-attachments/assets/8eea3ba8-32f8-43d3-9f1c-a45c50ad8378" /><br>
-
+<img width="1000" alt="Picture6" src="https://github.com/user-attachments/assets/8eea3ba8-32f8-43d3-9f1c-a45c50ad8378" /><br><br>
+<a href="https://github.com/swathinator/Homelabs">Back to Homelabs</a>
 
 
 
